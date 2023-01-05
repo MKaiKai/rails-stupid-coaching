@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+
+/* .input-group .btn {
+  font-weight: bold;
+  color: white;
+} */
+
+.container {
+  margin: 16px 32px;
+  padding: 0;
+  /* display: flex; */
+}
+
+/* body {
+  display: flex;
+  flex-direction: column;
+} */
